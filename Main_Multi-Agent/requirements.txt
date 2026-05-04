@@ -1,0 +1,9 @@
+requests
+python-dotenv
+chromadb
+rank-bm25
+langgraph
+langchain
+pypdf
+sentence-transformers==3.0.1
+transformers==4.44.2
